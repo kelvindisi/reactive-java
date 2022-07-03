@@ -1,4 +1,4 @@
-package com.devkiu.reactivebasics.services;
+package com.devkiu.reactivebasics.service;
 
 import org.junit.jupiter.api.Test;
 import reactor.core.publisher.Flux;

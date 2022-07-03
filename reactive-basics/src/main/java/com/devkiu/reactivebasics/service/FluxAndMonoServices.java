@@ -1,4 +1,4 @@
-package com.devkiu.reactivebasics.services;
+package com.devkiu.reactivebasics.service;
 
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
